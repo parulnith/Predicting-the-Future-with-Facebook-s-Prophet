@@ -1,4 +1,4 @@
-This repository accompanies the Me Medium article with the same name.
+This repository accompanies the Medium article with the same name.
 
 ## Predicting the 'Future' with Facebook's Prophet
 
