@@ -2,7 +2,8 @@ This repository accompanies the Medium article with the same name.
 
 ## Predicting the 'Future' with Facebook's Prophet
 
-![]()
+![](https://github.com/parulnith/Predicting-the-Future-with-Facebook-s-Prophet/blob/master/image/image1.jpg)
+Photo by Justin Clark on Unsplash
 
 Forecasting is a technique that uses historical data as inputs to make informed estimates that are predictive in determining the direction of future trends. It is an important and common data science task in organisations today. Having prior knowledge of any event can help a company tremendously in the formulation of its goals, policies and planning. However, producing high-quality and reliable forecasts comes with challenges of its own. Forecasting is a complex phenomenon both for humans and for machines. It also requires very experienced time series analysts which as a matter of fact are quite rare.
 
