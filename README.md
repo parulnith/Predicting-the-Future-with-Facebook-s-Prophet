@@ -12,3 +12,6 @@ Prophet is a tool that has been built to address these issues and provides a pra
 [Read More](https://medium.com/@parulnith/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Predicting-the-Future-with-Facebook-s-Prophet/master?filepath=Forecasting%20Views%20for%20a%20Medium%20article%20using%20Prophet..ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/parulnith/Predicting-the-Future-with-Facebook-s-Prophet/master?filepath=Forecasting%20Views%20for%20a%20Medium%20article%20using%20Prophet..ipynb
