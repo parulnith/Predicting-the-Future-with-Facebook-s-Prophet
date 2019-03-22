@@ -10,3 +10,5 @@ Forecasting is a technique that uses historical data as inputs to make informed 
 Prophet is a tool that has been built to address these issues and provides a practical approach to forecasting "at scale". It intends to automate the common features of business time series by providing simple and tunable methods. Prophet enables the analysts with a variety of backgrounds to make more forecasts than they can do manually.
 
 [Read More](https://medium.com/@parulnith/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Predicting-the-Future-with-Facebook-s-Prophet/master?filepath=Forecasting%20Views%20for%20a%20Medium%20article%20using%20Prophet..ipynb)
